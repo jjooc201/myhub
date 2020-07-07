@@ -1,0 +1,43 @@
+
+ body {
+   font-family: 'Lora', serif;
+ }
+
+ h2 {
+   text-align: left;
+   font-size: 1rem;
+ }
+
+/* Title */
+
+#title {
+  font-weight: 600;
+  font-style: italic;
+  font-size: 4rem;
+
+}
+
+.title-container {
+  margin: auto 860px auto 5%;
+}
+
+.title-text{
+  color: #f9f9f9;
+  line-height: 1.5;
+}
+
+.bg-size{
+  height: 700px;
+}
+
+.bg-image {
+  background-image: url("../images/coffee.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+/* Video Section */
+.video-location {
+position: relative;
+left: 45%;
+}
